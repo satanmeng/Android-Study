@@ -1,2 +1,1 @@
-# Android-Study
-五子棋
+# Android-Study安卓学习
